@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princesingh04
 - 👀 I’m interested in contributing in global technology.
-- 🌱 I’m currently learning backend dev and DSA with CP.
+- 🌱 I’m currently learning backend dev and DSA with C++.
 - 💞️ I’m looking to collaborate on projects of web.
 - 📫 How to reach me princesinghss786@gmail.com.
 
