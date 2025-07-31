@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @princesingh04
-- 👀 I’m interested in contributing in global technology.
-- 🌱 I’m currently learning backend dev and DSA with C++.
-- 💞️ I’m looking to collaborate on projects of web.
-- 📫 How to reach me princesinghss786@gmail.com.
+# 👋 Hi, I'm Prince Singh
 
-<!---
-princesingh04/princesingh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💡 About Me
+- 🎓 Pre-final year B.Tech student at **ITS Engineering College, Greater Noida**
+- 💻 Strong in **DSA with C++** — actively solving on Codeforces, LeetCode, and CP platforms
+- 🌐 Learning and building **backend systems** with **Node.js**, **Express**, **MongoDB**, and **REST APIs**
+- 🛠️ Recently built a **Codeforces POTD Chrome Extension** that fetches personalized problems by rating & difficulty
+- 🔧 Exploring **full-stack development**, real-world tools, and building useful dev utilities
+
+## 📫 Reach Me
+- 📧 Email: [princesinghss786@gmail.com](mailto:princesinghss786@gmail.com)
+- 🧑‍💻 GitHub: [@princesingh04](https://github.com/princesingh04)
+- 🔗 LinkedIn: [linkedin.com/in/princesingh04](https://www.linkedin.com/in/princesingh04)
+- 🐦 Twitter: [twitter.com/princesingh04](https://twitter.com/princesingh04)
